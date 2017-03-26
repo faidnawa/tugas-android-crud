@@ -6,7 +6,7 @@
 #       Bagus Santoso (141240000306)
 # aplikasi ini di buat dengan android studi 2,3
 # menggunakan php untuk encode json dan mysql sebagai database
-# link download <a href="https://drive.google.com/open?id=0B1fXYXPFDTv8eEpOZjRHbG5POGc">disini</a>
+# link download aplikasi <a href="https://drive.google.com/open?id=0B1fXYXPFDTv8eEpOZjRHbG5POGc">disini</a>
 
 
  
